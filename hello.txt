@@ -7,4 +7,4 @@ Hello JAYI！Hello git!
 Hello JAYI！Hello git!
 Hello JAYI！Hello git!
 Hello JAYI！Hello git!
-Hello JAYI！Hello git!
+Hello JAYI！Hello git! hot-fix test
